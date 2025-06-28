@@ -1,0 +1,14 @@
+spec_div_eucl
+spec_gcd
+spec_quot
+spec_rem
+spec_pow_pos
+spec_compare
+spec_succ
+spec_add
+spec_shiftl
+spec_land
+spec_lor
+spec_ldiff
+spec_lxor
+spec_sgn
